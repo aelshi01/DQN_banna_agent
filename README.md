@@ -49,7 +49,7 @@ Step 3: View the different States and Actions with their corresponding lengths
 
 Step 4: Explore the environment - by taking random actions in it
 
-Step 5: Run the DQN to see how well it does against the random results we recieved in the exploring phas where we saw the results of an agent taken random action
+Step 5: Run the DQN to see how well it does against the random results we recieved in the exploring phase where we saw the results of an agent taken random action
 
 Step 6: Play around with the hyperparameters and tune the agent to try and achieve a better score
 
